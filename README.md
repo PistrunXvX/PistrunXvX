@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi! I'm a Junior Fullstack Developer<br>currently looking for a job in my field
+🔭 Hi! I'm a Middle Fullstack Developer<br>currently looking for a job in my field
 
 
 ## 🌐 Socials:
