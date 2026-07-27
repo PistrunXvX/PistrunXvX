@@ -8,6 +8,10 @@
     <a href="https://www.linkedin.com/in/cyberhande-evgeny-us/"><img src="https://img.shields.io/badge/-linkedin-cba6f7?style=for-the-badge&logoColor=5865F2" alt="Discord"/></a>
 </div>
 
+<div align="center">
+    <img alt="PistrunXvX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PistrunXvX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e_zbenya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyberhande-evgeny-us) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14789964) 
 
