@@ -4,6 +4,7 @@
 <div align="center">
     <a href="https://t.me/HackJet"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
     <a href="https://pistrunxvx.itch.io/"><img src="https://img.shields.io/badge/-itch.io-f5e0dc?style=for-the-badge&logo=itch.io&logoColor=fa5c5c" alt="itch.io"/></a>
+    <a href="https://discord.com/users/251804937854386180"><img src="https://img.shields.io/badge/-Discord-f5e0dc?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/></a>
 </div>
 
 ## 🌐 Socials:
