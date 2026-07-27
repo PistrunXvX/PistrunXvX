@@ -3,8 +3,9 @@
 
 <div align="center">
     <a href="https://t.me/HackJet"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="https://pistrunxvx.itch.io/"><img src="https://img.shields.io/badge/-itch.io-f5e0dc?style=for-the-badge&logo=itch.io&logoColor=fa5c5c" alt="itch.io"/></a>
-    <a href="https://discord.com/users/251804937854386180"><img src="https://img.shields.io/badge/-Discord-f5e0dc?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/></a>
+    <a href="https://pistrunxvx.itch.io/"><img src="https://img.shields.io/badge/-itch.io-f2cdcd?style=for-the-badge&logo=itch.io&logoColor=fa5c5c" alt="itch.io"/></a>
+    <a href="https://discord.com/users/251804937854386180"><img src="https://img.shields.io/badge/-Discord-f5c2e7?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="Discord"/></a>
+    <a href="https://www.linkedin.com/in/cyberhande-evgeny-us/"><img src="https://img.shields.io/badge/-linkedin-cba6f7?style=for-the-badge&logoColor=5865F2" alt="Discord"/></a>
 </div>
 
 ## 🌐 Socials:
