@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="./chimple_sode.gif"/>    
+    <img width=300 src="./chimple_sode_2.gif"/>    
 </div>
 
 <div align="center">
