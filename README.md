@@ -1,5 +1,7 @@
 <div align="center">
-    <img width=300 src="./chimple_sode_2.gif"/>    
+    <img width=300 src="./chimple_sode_2.gif"/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=32&duration=4000&pause=10000&color=F7F7F7&center=true&width=500&lines=Godot+Indie+Dev+%26+Game+Creator" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
