@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 Hi! I'm a Middle Fullstack Developer<br>currently looking for a job in my field
+<div align="center">
+    <img width=300 src="./chimple_sode.gif"/>    
+</div>
 
 <div align="center">
     <a href="https://t.me/HackJet"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
