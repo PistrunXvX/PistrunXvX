@@ -17,6 +17,10 @@
     <h2 font-size="32px">Last Releas</h2>
     <img src="https://img.itch.zone/aW1nLzI4ODYwOTMwLnBuZw==/original/C7E6WX.png" width="25%" />
 </div> -->
+<div align="center">
+    <a href="https://steamcommunity.com/id/KillerDjek/" /><img src="https://itch-card-readme-card.vercel.app/api/game?url=https://itch.io/embed/4818547?dark=true" /></a>
+</div>
+
 
 <div align="center">
     <a href="https://steamcommunity.com/id/KillerDjek/" /><img src="https://steam-status-one.vercel.app/card?steamid=76561198091733773" /></a>
